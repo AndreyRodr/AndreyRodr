@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying system's analisys and development;<br>📚 I'm learning Python;<br>🤖 I am a cybersecurity enthusiast;<br>🪐 I am looking to improve my knowledge;<br>💻 I'm a big fan of AI.
+🔭 I’m currently studying system's analisys and development;<br>📚 I'm learning Python, Java and JavaScript;<br>🤖 I am a cybersecurity enthusiast;<br>🪐 I'm looking to improve my knowledge;<br>💻 I'm a big fan of AI.
 
 
 ## 🌐 Socials:
