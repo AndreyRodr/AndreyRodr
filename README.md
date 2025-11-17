@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Java.<br>🎯 Goals: Be rich with codings :D.<br>🎲 Fun fact: I love to play Valorant and other games (and do some streams).</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning Python and Java.<br>🎯 Goals: Be rich with codings :D.<br>🎲 Fun fact: I love to play Valorant and other games (and do some streams).</p>
 
 ###
 
