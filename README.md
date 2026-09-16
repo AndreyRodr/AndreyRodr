@@ -32,7 +32,7 @@ LIBRAS recognition project using **Python, OpenCV, MediaPipe, TensorFlow/Keras, 
 Platform designed to connect donors and NGOs, built with **React, Node.js, Express, Prisma, JWT authentication, and SQLite**.
 
 ### 🎴 [AniCard Battle — Flutter Mobile Game](https://github.com/AndreyRodr/AnicardBattle)
-Functional card game inspired by Super Trunfo, developed with **Flutter, Dart, Firebase Authentication, and Cloud Firestore**. The repository is currently private.
+Functional card game inspired by Super Trunfo, developed with **Flutter, Dart, Firebase Authentication, and Cloud Firestore**.
 
 ---
 
