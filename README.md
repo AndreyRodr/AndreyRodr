@@ -8,6 +8,8 @@ I'm currently a **Scientific Initiation researcher in Cybersecurity**, working o
 
 My main career interests are **Software Development** and **Cybersecurity**, especially areas where secure software engineering, automation, data analysis, and security operations intersect.
 
+🌐 **Portfolio:** https://andreyrodrigues-portfolio.vercel.app
+
 ---
 
 ## 🔎 Featured Projects
@@ -71,5 +73,6 @@ Scientific Initiation project developed at **IFSP — Jacareí Campus**.
 
 ## 📫 Contact
 
+- **Portfolio:** https://andreyrodrigues-portfolio.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/andreyrodrigues-dev
 - **Email:** andreyrm.dev@gmail.com
