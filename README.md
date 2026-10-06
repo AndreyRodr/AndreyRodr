@@ -1,8 +1,8 @@
 # Hi, I'm Andrey Rodrigues 👋
 
-**Software Development • Full Stack • Cybersecurity • Machine Learning**
+**Software Development • Full Stack • Cybersecurity • Applied AI**
 
-I'm a **Systems Analysis and Development** student at the **Federal Institute of São Paulo (IFSP) — Jacareí Campus**, with hands-on experience building web and mobile applications, working with data, and developing applied Machine Learning projects.
+I'm a **Systems Analysis and Development** student at the **Federal Institute of São Paulo (IFSP) — Jacareí Campus**, with hands-on experience building web and mobile applications, working with data, and developing applied AI projects.
 
 I'm currently a **Scientific Initiation researcher in Cybersecurity**, working on **Aegis**, a hybrid threat-detection architecture that combines the **Wazuh SIEM** with the unsupervised **Isolation Forest** algorithm.
 
@@ -15,7 +15,7 @@ My main career interests are **Software Development** and **Cybersecurity**, esp
 ## 🔎 Featured Projects
 
 ### 🛡️ [Aegis — Cybersecurity & Machine Learning](https://github.com/AndreyRodr/Aegis-Projeto-IC)
-Scientific Initiation project focused on detecting threats and anomalies in web applications by combining **Wazuh SIEM**, **Isolation Forest**, **Python**, **Docker**, **Nginx**, **Logstash**, and **Elasticsearch**.
+Scientific Initiation project at IFSP focused on detecting threats and anomalies in web applications by combining **Wazuh SIEM**, **Isolation Forest**, **Python**, **Docker**, **Nginx**, **Logstash**, and **Elasticsearch**.
 
 - External validation with **170,366 CIC-IDS2017 requests**
 - Hybrid architecture: **99.30% accuracy** and **73.86% F1-Score**
@@ -24,17 +24,8 @@ Scientific Initiation project focused on detecting threats and anomalies in web 
 
 📄 [Published article](https://doi.org/10.47820/recima21.v7i8.8820)
 
-### 🍳 [Cook & Tea — Full Stack Web Application](https://github.com/AndreyRodr/Cook-and-Tea)
-Recipe-sharing platform developed with **React, TypeScript, Vite, Node.js, REST APIs, and JWT authentication**.
-
-### 🤟 [HandTracker — Computer Vision & Deep Learning](https://github.com/AndreyRodr/HandTracker)
-LIBRAS recognition project using **Python, OpenCV, MediaPipe, TensorFlow/Keras, LSTM networks, and MobileNetV2** for dynamic and static gesture recognition.
-
-### 🤝 [Care n' Share — Full Stack Platform for NGOs](https://github.com/AndreyRodr/Care-n-Share)
-Platform designed to connect donors and NGOs, built with **React, Node.js, Express, Prisma, JWT authentication, and SQLite**.
-
 ### 🎴 [AniCard Battle — Flutter Card Game](https://github.com/AndreyRodr/AnicardBattle)
-Functional collectible card game developed with **Flutter, Dart, Firebase Authentication, Cloud Firestore, and Firebase Hosting**.
+Team project developed with **Flutter, Dart, Firebase Authentication, Cloud Firestore, and Firebase Hosting**.
 
 - Deck building, battles, ranking, missions, rewards, and persistent progression
 - Public/private Firestore data separation with Security Rules
@@ -42,29 +33,39 @@ Functional collectible card game developed with **Flutter, Dart, Firebase Authen
 
 🎮 [Live Demo](https://anicard-battle.web.app)
 
+### 🍳 [Cook & Tea — Full Stack Web Application](https://github.com/AndreyRodr/Cook-and-Tea)
+Team project for recipe sharing and discovery, built with **React, Vite, Node.js, Express, PostgreSQL, Sequelize, JWT authentication, and AWS S3**.
+
+### 🤟 [HandTracker — Computer Vision & Deep Learning](https://github.com/AndreyRodr/HandTracker)
+Team project for LIBRAS recognition using **Python, OpenCV, MediaPipe, TensorFlow/Keras, bidirectional LSTM networks, and MobileNetV2**.
+
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**  
-Python • JavaScript • TypeScript • Java • Dart • SQL
+**Languages & Core**  
+JavaScript • TypeScript • Python • PHP • Dart • SQL
 
-**Web & Mobile**  
-React • Node.js • Express • Flutter • Vite • HTML • CSS • REST APIs
+**Frontend & Mobile**  
+React • Flutter • HTML5 • CSS3 • Tailwind CSS • Vite
 
-**Data & AI**  
-Pandas • Scikit-learn • TensorFlow/Keras • OpenCV • MediaPipe
+**Backend & Databases**  
+Node.js • Express • REST APIs • PostgreSQL • MySQL • Firebase/Firestore • Prisma • PDO • JWT
 
-**Databases, Infrastructure & Security**  
-PostgreSQL • MySQL • Firebase/Firestore • Elasticsearch • Docker • Git/GitHub • Wazuh • Nginx • Logstash
+**Cybersecurity & Infrastructure**  
+Wazuh • Docker • Elasticsearch • Logstash • Nginx • Git/GitHub
+
+**Data & Applied AI**  
+Pandas • Scikit-learn • TensorFlow/Keras • OpenCV • MediaPipe • Isolation Forest
 
 ---
 
 ## 📚 Research & Publication
 
-**Predictive Analysis of Vulnerabilities in Web Applications Using Server Logs: A Hybrid Architecture**  
+**Análise Preditiva de Vulnerabilidades em Aplicações Web Usando Logs de Servidor: Uma Arquitetura Híbrida**  
 Scientific Initiation project developed at **IFSP — Jacareí Campus**.
 
+- Authors: **Andrey Rodrigues Moreira** and **Olavo Olimpio de Matos Junior**
 - Presented at **ERMAC Regional 8 — INPE, São José dos Campos (2026)**
 - Published in **RECIMA21 — Revista Científica Multidisciplinar**
 - DOI: https://doi.org/10.47820/recima21.v7i8.8820
