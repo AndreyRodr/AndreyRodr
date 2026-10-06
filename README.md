@@ -31,8 +31,14 @@ LIBRAS recognition project using **Python, OpenCV, MediaPipe, TensorFlow/Keras, 
 ### 🤝 [Care n' Share — Full Stack Platform for NGOs](https://github.com/AndreyRodr/Care-n-Share)
 Platform designed to connect donors and NGOs, built with **React, Node.js, Express, Prisma, JWT authentication, and SQLite**.
 
-### 🎴 [AniCard Battle — Flutter Mobile Game](https://github.com/AndreyRodr/AnicardBattle)
-Functional card game inspired by Super Trunfo, developed with **Flutter, Dart, Firebase Authentication, and Cloud Firestore**.
+### 🎴 [AniCard Battle — Flutter Card Game](https://github.com/AndreyRodr/AnicardBattle)
+Functional collectible card game developed with **Flutter, Dart, Firebase Authentication, Cloud Firestore, and Firebase Hosting**.
+
+- Deck building, battles, ranking, missions, rewards, and persistent progression
+- Public/private Firestore data separation with Security Rules
+- Web version deployed with Firebase Hosting
+
+🎮 [Live Demo](https://anicard-battle.web.app)
 
 ---
 
